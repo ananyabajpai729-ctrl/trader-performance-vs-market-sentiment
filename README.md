@@ -26,7 +26,42 @@ The analysis uses two datasets:
   - Timestamp
 
 ---
+## Visualizations
 
+### Average PnL by Sentiment
+![Average PnL](images/avg_pnl.png)
+
+---
+
+### Win Rate by Sentiment
+![Win Rate](images/win_rate_by_sentiment.png)
+
+---
+
+### Average Trade Size by Sentiment
+![Trade Size](images/avg_trade_size_by_sentiment.png)
+
+---
+
+### PnL Distribution
+![PnL Distribution](images/dist_of_pnl.png)
+
+---
+
+### PnL Distribution Across Sentiments
+![PnL by Sentiment](images/pnl_dist_across_sentiments.png)
+
+---
+
+### Segmentation: PnL by Sentiment
+![PnL Segmentation](images/pnl_by_sentiment_and_seg.png)
+
+---
+
+### Segmentation: Win Rate
+![Win Rate Segmentation](images/win_rate_by_seg_and_sentiment.png)
+
+------------
 ## Methodology
 
 ### Data Preparation
